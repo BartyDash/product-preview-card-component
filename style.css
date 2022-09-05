@@ -7,3 +7,75 @@ html {
 *:after {
   box-sizing: inherit;
 }
+
+body {
+  background: hsl(30, 38%, 92%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.main {
+  background: hsl(0, 0%, 100%);
+  border-radius: 16px;
+  width: 624px;
+  height: 400px;
+  margin: 16px;
+}
+
+.product {
+  display: flex;
+  align-items: flex-start;
+  height: 100%;
+}
+
+.product__image {
+  border-radius: 16px 0 0 16px;
+  height: 100%;
+}
+
+.div {
+  padding: 32px;
+}
+
+.product__info {
+  margin-bottom: 24px;
+}
+
+.product__category {
+  color: hsl(228, 12%, 48%);
+  margin: 0;
+}
+
+.product__name {
+  color: hsl(212, 21%, 14%);
+}
+
+.product__description {
+  font-size: 14px;
+  color: hsl(228, 12%, 48%);
+}
+
+.product__price {
+  color: hsl(228, 12%, 48%);
+}
+
+.special-price {
+  color: hsl(158, 36%, 37%);
+}
+
+.product__add-to-card {
+  background: hsl(159, 35%, 21%);
+  border: 0;
+  border-radius: 16px;
+  padding: 16px 32px;
+  color: hsl(0, 0%, 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer {
+
+}
