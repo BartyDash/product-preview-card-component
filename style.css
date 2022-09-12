@@ -19,7 +19,7 @@ body {
 
 .main {
   background: hsl(0, 0%, 100%);
-  border-radius: 16px;
+  border-radius: 8px;
   width: 600px;
   height: 450px;
   margin: 16px;
@@ -33,7 +33,7 @@ body {
 }
 
 .product__image {
-  border-radius: 16px 0 0 16px;
+  border-radius: 8px 0 0 8px;
   height: 100%;
 }
 
@@ -88,7 +88,7 @@ body {
 .product__button {
   background: hsl(158, 36%, 37%);
   border: 0;
-  border-radius: 16px;
+  border-radius: 8px;
   padding: 0 32px;
   color: hsl(0, 0%, 100%);
   display: flex;
