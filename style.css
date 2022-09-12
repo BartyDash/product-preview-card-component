@@ -76,6 +76,10 @@ body {
 .product__price {
   color: hsl(228, 12%, 48%);
   margin: 25px 0;
+  font-family: Montserrat;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
 }
 
 .special-price {
@@ -83,6 +87,12 @@ body {
   font-family: Fraunces;
   font-weight: 700;
   font-size: 30px;
+  margin-right: 20px;
+}
+
+.old-price {
+  text-decoration: line-through;
+  font-weight: normal;
 }
 
 .product__button {
