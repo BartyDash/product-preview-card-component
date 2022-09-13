@@ -108,6 +108,14 @@ body {
   font-weight: 700;
 }
 
+.product__button:hover {
+  background: hsl(158, 35%, 32%);
+}
+
+.product__button:active {
+  background: hsl(159, 37%, 20%);
+}
+
 .product__button-svg {
   margin-right: 12px;
 }
