@@ -5,7 +5,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -16,20 +15,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://github.com/BartyDash/product-preview-card-component)
 - Live Site URL: [website](https://your-live-site-url.com)
 
 ## My process
@@ -42,11 +34,11 @@ Users should be able to:
 
 ### What I learned
 
-I had my first meeting with the button. I learned his interesting properties
+I had my first meeting with the button. I learned his interesting properties. This project gave me a lot of experience with CSS styles.
 
 ### Continued development
 
-I want to learn how to make mobile first website.
+I want to learn how to make mobile first website and grid display.
 
 ## Author
 
