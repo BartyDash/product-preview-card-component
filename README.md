@@ -21,8 +21,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [solution](https://github.com/BartyDash/product-preview-card-component)
-- Live Site URL: [website](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/product-preview-card-perfume-Ef5GMOrlCz)
+- Live Site URL: [website](https://bartydash.github.io/product-preview-card-component/)
 
 ## My process
 
